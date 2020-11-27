@@ -26,6 +26,8 @@ https://github.com/dhimmel/scopus - Что-то интересное
 https://github.com/greenelab/scihub - Анализ покрытия скайхабом скопусовских публикаций
 https://github.com/msbrito/topic_search - МАШИННОЕ ОБУЧЕНИЕ ЕПТА. Доставать темы статей из статей с помощью tf-idf
 https://github.com/krivi95/university-of-belgrade-scientific-publication-analysis - Красивая визуализация кластеров с Gephi
+https://github.com/Research-Intelligence/Research-Intelligence - Красивые графы в нотебуке Networks_Outputs
+
 
 Напоминаем! Для того, чтобы твой вопрос в чате точно был замечен, используй хештеги:
 
