@@ -15,6 +15,7 @@ https://sc-new.minsvyaz.ru/ - Ситуационный центр
 
 https://lodmedia.hb.bizmrg.com/cases/283566/%D0%A0%D0%98%D0%9D%D0%A5.pdf - Задание
 https://docs.google.com/document/d/1pIk3WlcnXwP97KcAxnB2sZ3e5HHtuoo9bT7LtpBnRJY/ - МОи текста
+https://docs.google.com/spreadsheets/d/1ktcFYs-WsiKBBUh2QORITxNm-aCMpyY8Ma4iaMDB4ro/edit#gid=0 - Таблица с таск трекингом
 
 https://www.youtube.com/watch?v=ZrjJUdcrjQw&feature=youtu.be&ab_channel=%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%D0%9F%D1%80%D0%BE%D1%80%D1%8B%D0%B2 - Видеоинтервью про кейс
 
