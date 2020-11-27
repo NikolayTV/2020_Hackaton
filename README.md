@@ -20,6 +20,8 @@ https://www.rscf.ru/contests/classification/ - классификация фон
 
 https://www.youtube.com/watch?v=ZrjJUdcrjQw&feature=youtu.be&ab_channel=%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%D0%9F%D1%80%D0%BE%D1%80%D1%8B%D0%B2 - Видеоинтервью про кейс
 
+## Data Parsing & Analysis
+https://github.com/lizichen/Scholars-Collaboration-Network - Скопус какой-то парсинг и анализ, но без нотебуков
 
 
 Напоминаем! Для того, чтобы твой вопрос в чате точно был замечен, используй хештеги:
