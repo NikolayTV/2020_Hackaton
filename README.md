@@ -5,6 +5,8 @@
 
 * Телеграм - @verakoch - Вера Кочерова - Трекер
 
+* Телеграм - Rimma Egorova - Ревизор
+
 * https://discord.gg/fKe8ngCD - Наш дискорд
 
 
