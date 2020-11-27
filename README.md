@@ -11,6 +11,8 @@
 
 
 ## Материалы
+https://sc-new.minsvyaz.ru/ - Ситуационный центр
+
 https://lodmedia.hb.bizmrg.com/cases/283566/%D0%A0%D0%98%D0%9D%D0%A5.pdf - Задание
 https://docs.google.com/document/d/1pIk3WlcnXwP97KcAxnB2sZ3e5HHtuoo9bT7LtpBnRJY/ - МОи текста
 
