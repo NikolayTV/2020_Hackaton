@@ -24,6 +24,8 @@ https://www.youtube.com/watch?v=ZrjJUdcrjQw&feature=youtu.be&ab_channel=%D0%A6%D
 https://github.com/lizichen/Scholars-Collaboration-Network - Скопус какой-то парсинг и анализ, но без нотебуков
 https://github.com/dhimmel/scopus - Что-то интересное
 https://github.com/greenelab/scihub - Анализ покрытия скайхабом скопусовских публикаций
+https://github.com/msbrito/topic_search - МАШИННОЕ ОБУЧЕНИЕ ЕПТА. Доставать темы статей из статей с помощью tf-idf
+
 
 Напоминаем! Для того, чтобы твой вопрос в чате точно был замечен, используй хештеги:
 
