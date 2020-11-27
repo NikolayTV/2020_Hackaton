@@ -11,6 +11,8 @@
 
 
 ## Материалы
+https://www.science-education.ru/ru/article/view?id=12787 -- почитать обязательно
+
 https://sc-new.minsvyaz.ru/ - Ситуационный центр
 
 https://lodmedia.hb.bizmrg.com/cases/283566/%D0%A0%D0%98%D0%9D%D0%A5.pdf - Задание
@@ -27,6 +29,7 @@ https://github.com/greenelab/scihub - Анализ покрытия скайха
 https://github.com/msbrito/topic_search - МАШИННОЕ ОБУЧЕНИЕ ЕПТА. Доставать темы статей из статей с помощью tf-idf
 https://github.com/krivi95/university-of-belgrade-scientific-publication-analysis - Красивая визуализация кластеров с Gephi
 https://github.com/Research-Intelligence/Research-Intelligence - Красивые графы в нотебуке Networks_Outputs
+
 
 
 Напоминаем! Для того, чтобы твой вопрос в чате точно был замечен, используй хештеги:
