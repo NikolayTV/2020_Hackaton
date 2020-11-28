@@ -1,3 +1,8 @@
+# Наши репозитории с кодом
+
+## Бэкенд - https://github.com/opmoje/science_app_backend
+
+
 # 2020_Hackaton
 ## Контакты
 
