@@ -48,3 +48,14 @@ http://web.cs.ucla.edu/~haoyc/coauthor-vis/#Josep%20Torrellas - Пример р�
 ✅ вопросы к организаторам: #orgSOS
 
 
+##
+Установка Gephi на убунту 18.04
+sudo add-apt-repository ppa:openjdk-r/ppa
+sudo apt update
+sudo apt install openjdk-8-jdk openjdk-8-jre
+
+curl -L -o gephi.tar.gz https://github.com/gephi/gephi/releases/download/v0.9.2/gephi-0.9.2-linux.tar.gz
+tar xzvf gephi.tar.gz
+
+Запуск:
+bash $PWD/gephi-0.9.2/bin/gephi
