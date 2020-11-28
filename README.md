@@ -35,7 +35,7 @@ https://github.com/msbrito/topic_search - МАШИННОЕ ОБУЧЕНИЕ ЕП
 https://github.com/krivi95/university-of-belgrade-scientific-publication-analysis - Красивая визуализация кластеров с Gephi
 https://github.com/Research-Intelligence/Research-Intelligence - Красивые графы в нотебуке Networks_Outputs
 
-
+http://web.cs.ucla.edu/~haoyc/coauthor-vis/#Josep%20Torrellas - Пример работы с графом со-авторства
 
 Напоминаем! Для того, чтобы твой вопрос в чате точно был замечен, используй хештеги:
 
