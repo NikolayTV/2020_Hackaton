@@ -1,6 +1,7 @@
 # Наши репозитории с кодом
 
 ## Бэкенд - https://github.com/opmoje/science_app_backend
+## Фронтенд - https://github.com/opmoje/science_app_frontend
 ## МЛ - https://github.com/Iorgen/SolarisNLP
 ## Координационный репозиторий https://github.com/NikolayTV/2020_Hackaton <-- вы здесь
 
